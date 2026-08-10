@@ -1,10 +1,6 @@
 [README.md](https://github.com/user-attachments/files/30915417/README.md)
  📒 Painel Financeiro do Casal
 
-Um livro-caixa digital para duas pessoas administrarem o dinheiro juntas —
-sem planilha, sem "quem atualizou por último", sem dado que some quando
-alguém fecha o navegador.
-
 Vocês registram entradas e gastos pelo celular ou computador, escolhem o
 mês que querem ver, e o painel calcula sozinho quanto entrou, quanto saiu,
 quanto sobrou e pra onde o dinheiro está indo — em tempo real, para os
